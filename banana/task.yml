@@ -4,4 +4,4 @@ inputs:
 - name: ConcourseDummy
 
 run:
-  path: ConcourseDummy/banana/build.sh
+  path: ConcourseDummy/banana/build2.sh
