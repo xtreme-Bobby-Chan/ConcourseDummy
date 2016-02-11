@@ -4,5 +4,5 @@ inputs:
   - name: ConcourseDummy
 
 run:
-  path: cat
+  path: bash
   args: ["ConcourseDummy/banana/build.sh"]
