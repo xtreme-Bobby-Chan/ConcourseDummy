@@ -4,4 +4,4 @@
 
 export TERM=dumb
 cd ConcourseDummy
-bash ./gradlew clean debug
+/bin/bash ./gradlew clean debug
