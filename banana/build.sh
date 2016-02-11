@@ -1,2 +1,3 @@
 #!/bin/sh
-echo "Hello, das world!"
+cd ConcourseDummy
+./gradlew clean debug
