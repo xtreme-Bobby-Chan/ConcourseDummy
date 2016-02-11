@@ -1,4 +1,3 @@
 platform: linux
 run:
-  path: echo
-  args: ["Hello, world!"]
+  path: build.sh
