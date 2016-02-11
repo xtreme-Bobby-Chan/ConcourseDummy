@@ -4,4 +4,5 @@ inputs:
   - name: ConcourseDummy
 
 run:
-  path: ls -la
+  path: ls
+  args: ["l", "a"]
