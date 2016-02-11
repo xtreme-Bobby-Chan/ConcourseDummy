@@ -1,7 +1,7 @@
 platform: linux
 
 inputs:
-- name: ConcourseDummy
+  - name: ConcourseDummy
 
 run:
   path: ConcourseDummy/banana/build2.sh
