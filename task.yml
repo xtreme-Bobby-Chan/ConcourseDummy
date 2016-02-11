@@ -1,6 +1,0 @@
-- task: banana
-  config:
-    platform: linux
-    run:
-      path: echo
-      args: ["Hello, world!"]
