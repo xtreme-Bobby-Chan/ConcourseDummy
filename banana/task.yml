@@ -1,4 +1,4 @@
-- task: banana
+- task: banana-task
   config:
     platform: linux
     run:
