@@ -1,6 +1,7 @@
 #!/bin/sh
 
-export TERM=dumb
+echo $PATH
 
-cd ConcourseDummy
-./gradlew clean debug
+#export TERM=dumb
+#cd ConcourseDummy
+#./gradlew clean debug
