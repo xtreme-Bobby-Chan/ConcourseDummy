@@ -12,4 +12,4 @@ export TERM=dumb
 cd ConcourseDummy
 ./gradlew clean debug
 
-ls -la $ANDROID_HOME
+#ls -la $ANDROID_HOME
