@@ -1,7 +1,8 @@
 platform: linux
 
 #image: docker:///jacekmarchwicki/android
-image: docker:///seadowg/android#android-19
+#image: docker:///seadowg/android#android-21
+image: docker:///flyingtoaster0/androiddocker
 
 inputs:
   - name: ConcourseDummy
