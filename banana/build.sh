@@ -3,7 +3,7 @@
 #echo $PATH
 
 ls /bin
-
+ls ~/vagrant
 echo "$USER"
 
 
