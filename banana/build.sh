@@ -9,4 +9,4 @@ echo "$USER"
 
 export TERM=dumb
 cd ConcourseDummy
-sudo ./gradlew clean debug
+su -c './gradlew clean debug' vagrant
