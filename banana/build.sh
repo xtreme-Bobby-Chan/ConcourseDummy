@@ -10,6 +10,6 @@ $ANDROID_HOME/tools/android list sdk
 
 export TERM=dumb
 cd ConcourseDummy
-./gradlew clean debug
+./gradlew clean assembleDebug
 
 #ls -la $ANDROID_HOME
