@@ -6,6 +6,7 @@
 #ls ~/vagrant
 #echo "$USER"
 
+$ANDROID_HOME/tools/android list sdk
 
 export TERM=dumb
 cd ConcourseDummy
