@@ -1,5 +1,7 @@
 platform: linux
 
+image: docker:///jacekmarchwicki/android
+
 inputs:
   - name: ConcourseDummy
 
