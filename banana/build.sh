@@ -4,6 +4,9 @@
 
 ls /bin
 
+echo "$USER"
+
+
 export TERM=dumb
 cd ConcourseDummy
-/bin/bash ./gradlew clean debug
+sudo ./gradlew clean debug
